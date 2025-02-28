@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="juego-numero-secreto\project\image\capJNS.png"  height="400">
+  <img src="project\image\capJNS.png"  height="400">
 <p align="center">
 
 ## Descripción
